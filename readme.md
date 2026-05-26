@@ -86,4 +86,5 @@ Lust auf einen Tech-Talk, Fragen zu meinen Projekten oder einfach mal virtuell e
 - **E-Mail:** [septem.sensu@gmail.com](mailto:septem.sensu@gmail.com)
 - **GitHub:** [://github.com/septem-sensu](https://github.com/septem-sensu)
 - **Discord:** [://discord.com/users/septem_sensu](https://discord.com/users/septem_sensu)
+- **LinkedId:** [://www.linkedin.com/in/markus-g%C3%B6tz-385838292](https://www.linkedin.com/in/markus-g%C3%B6tz-385838292/)
 
