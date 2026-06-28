@@ -62,7 +62,8 @@
     'Künstliche Intelligenz',
     'Multiplayer-Adventure-Game',
     'AEVO-Ausbildung',
-    'Connector-Architektur'
+    'Connector-Architektur',
+    'Reallife-Geo-Game'
   ];
   var wordIndex = 0;
   var charIndex = 0;
