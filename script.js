@@ -60,8 +60,9 @@
   var typewriterEl = document.getElementById('typewriter');
   var words = [
     'Künstliche Intelligenz',
+    'Framework-Entwicklung',
     'Multiplayer-Adventure-Game',
-    'AEVO-Ausbildung',
+    'Klima-Dashboard',
     'Connector-Architektur',
     'Reallife-Geo-Game'
   ];
